@@ -1,0 +1,6 @@
+-cp src
+-lib markdown
+-main Nanjizal
+-js web/nanjizal.js
+-dce full
+-cmd open bin/Nanjizal.html
