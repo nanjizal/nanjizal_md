@@ -1,0 +1,21 @@
+{
+	"blog": [{
+		"name": "intro",
+		"content": {
+			"links": [{
+				"name": "nanjizalBeach",
+				"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nanjizal_cove_from_Carn_Boel_August_2008.jpg/320px-Nanjizal_cove_from_Carn_Boel_August_2008.jpg"
+			}, {
+				"name": "photographer",
+				"src": "https://commons.wikimedia.org/wiki/User:JimChampion!"
+			}, {
+				"name": "cc",
+				"src": "https://creativecommons.org/licenses/by/3.0/"
+			}, {
+				"name": "linkGuardian",
+				"src": "http://www.theguardian.com/travel/2011/jul/15/secert-beaches-south-west-nanjizal"
+			}],
+			"markdown": "holding.md"
+		}
+	}]
+}
